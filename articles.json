@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "德文入門指南",
+    "summary": "學習基本德文單字與句型。",
+    "difficulty": "A1",
+    "category": "A1",
+    "readingTime": 3,
+    "content": "請見文章內容..."
+  },
+  {
+    "id": 2,
+    "title": "快樂德文小故事",
+    "summary": "用簡單故事學德文。",
+    "difficulty": "A1",
+    "category": "開心篇",
+    "readingTime": 4,
+    "content": "請見文章內容..."
+  },
+  {
+    "id": 3,
+    "title": "正義的對話",
+    "summary": "以正義為主題的德文對話。",
+    "difficulty": "A2",
+    "category": "正義篇",
+    "readingTime": 6,
+    "content": "請見文章內容..."
+  }
+]
