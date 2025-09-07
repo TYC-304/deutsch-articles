@@ -1,5 +1,23 @@
 [
-  { "id": "a1", "title": "小紅帽" },
-  { "id": "a2", "title": "正義篇" },
-  { "id": "a3", "title": "開心篇" }
+  { "id": "a1", 
+  "title": "1小紅帽", 
+  "summary": "學習基本德文單字與句型。",
+  "difficulty": "A1",
+  "category": "A1",
+  "readingTime": 3
+},
+  { "id": "a2",
+  "title": "2國王的新衣",
+  "summary": "學習基本德文單字與句型。",
+  "difficulty": "A1",
+  "category": "A1",
+  "readingTime": 3
+},
+  { "id": "a3",
+  "title": "3格林童話",
+  "summary": "學習基本德文單字與句型。",
+  "difficulty": "A1",
+  "category": "A1",
+  "readingTime": 3
+  }
 ]
