@@ -1,22 +1,26 @@
 [
     {
       "id": "a1",
-      "title": "小紅帽",
+      "title": "Des Kaisers neue Kleider 國王的新衣",
       "summary": "學習基本德文單字與句型。",
       "difficulty": "A1",
       "category": "A1",
       "readingTime": 3,
-      "content": ["從前有一個小女孩，大家都叫她小紅帽。",
-      "第二段","第三段"
+      "content": ["Vor vielen Jahren lebte ein Kaiser, der so ungeheuer viel auf neue Kleider hielt, daß er all sein Geld dafür ausgab, um recht geputzt zu sein. Er kümmerte sich nicht um seine Soldaten, kümmerte sich nicht um Theater und liebte es nicht, in den Wald zu fahren, außer um seine neuen Kleider zu zeigen. Er hatte einen Rock für jede Stunde des Tages, und ebenso wie man von einem König sagte, er ist im Rat, so sagte man hier immer: \"Der Kaiser ist in der Garderobe!\"",
+      "In der großen Stadt, in der er wohnte, ging es sehr munter her. An jedem Tag kamen viele Fremde an, und eines Tages kamen auch zwei Betrüger, die gaben sich für Weber aus und sagten, daß sie das schönste Zeug, was man sich denken könne, zu weben verstanden. Die Farben und das Muster seien nicht allein ungewöhnlich schön, sondern die Kleider, die von dem Zeuge genäht würden, sollten die wunderbare Eigenschaft besitzen, daß sie für jeden Menschen unsichtbar seien, der nicht für sein Amt tauge oder der unverzeihlich dumm sei.",
+          "\"Das wären ja prächtige Kleider\", dachte der Kaiser; \"wenn ich solche hätte, könnte ich ja dahinterkommen, welche Männer in meinem Reiche zu dem Amte, das sie haben, nicht taugen, ich könnte die Klugen von den Dummen unterscheiden! Ja, das Zeug muß sogleich für mich gewebt werden!\" Er gab den beiden Betrügern viel Handgeld, damit sie ihre Arbeit beginnen sollten."
         ],
       "phrases": [
         {
-          "phrase": "in der Nacht",
-          "example": "Sie geht in der Nacht."
+          "phrase": "In der großen Stadt, in der er wohnte,",
+          "片語結構":"in der … 是一種關係子句（Relativsatz），等於 in der Stadt, in der er wohnte”（在他所住的大城市裡）",
+          "語法重點：": "「in der」是介系詞 + 陰性定冠詞（Stadt 是陰性）。n\「in der er wohnte」= 他住在其中的大城市。"
         },
         {
-          "phrase": "auf dem Weg",
-          "example": "Der Wolf wartet auf dem Weg."
+          "phrase": "ging es sehr munter her",
+          "片語意思":"這是一個固定表達，意為「氣氛活躍」「場面熱鬧」。",
+          "逐字分析：": "es geht … her 是一種不及物的表達方式。n\munter = 活潑地、有精神地。n\hergehen（動詞 “hergehen” 的變體）這裡是以慣用語出現。",
+          "小提示：":"es geht … her 常與副詞搭配，用來形容某處的氛圍或情況。"
         }
       ]
     }
