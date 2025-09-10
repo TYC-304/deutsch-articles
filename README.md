@@ -1,2 +1,0 @@
-# deutsch-articles
-deutsch articles
